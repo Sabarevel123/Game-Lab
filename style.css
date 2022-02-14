@@ -7,7 +7,7 @@ body
   background-color: mediumaquamarine;  
 }
 #app {
-    background-color: aliceblue;
+    background:linear-gradient(#0004ff,#f700ff,#ff0000,#ff5e00,#5eff00,#00ffae,#00fff7)
 }
 
 #myCarousel
@@ -28,6 +28,9 @@ body
     font-size: 20px;
 }
 
-img{ 
-    
+img:hover{ 
+  transform: scale(0.9)
+}
+h1{
+    font-size: 18px;
 }
